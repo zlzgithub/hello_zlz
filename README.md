@@ -21,3 +21,10 @@
 4. 测试远程触发Jenkins
 
     再配置git，但不给密码
+
+    success
+
+  
+5. 测试远程触发Jenkins
+
+    指定Repository browser
