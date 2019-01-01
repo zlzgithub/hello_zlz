@@ -28,3 +28,10 @@
 5. 测试远程触发Jenkins
 
     指定Repository browser
+
+    success
+
+6. 测试远程触发Jenkins
+
+    测试多个任务，git配置相同
+
